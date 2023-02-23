@@ -11,7 +11,7 @@
 - 👨 Ji Bin, 嵇斌 in Chinese, you may also see the nickname Matrix Ji for me sometimes.
 - ✉️ matrixji@live.com, matrixji@163.com
 - 🗺️ Hangzhou, a beautiful garden city, started working here in 2004.
-- 🏆 Working for: [Unisinsight](https://www.unisinsight.com) < [Nokia](https://www.nokia.com/) < [Uniview](https://uniview.com) < [H3C](https://h3c.com)
+- 🏆 Working for: [MetaX](https://www.metax-tech.com/) < [Unisinsight](https://www.unisinsight.com) < [Nokia](https://www.nokia.com/) < [Uniview](https://www.uniview.com) < [H3C](https://h3c.com)
 - 🌐 [jibin.net](https://jibin.net)
 
 #### My Codememo
