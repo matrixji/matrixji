@@ -8,6 +8,7 @@
 - 🗺️ Hangzhou, a beautiful garden city, started working here in 2004.
 - 🏆 Working for: [Leapmotor](https://www.leapmotor.com/) < [MetaX](https://www.metax-tech.com/) < [Unisinsight](https://www.unisinsight.com) < [Nokia](https://www.nokia.com/) < [Uniview](https://www.uniview.com) < [H3C](https://h3c.com)
 - 🌐 [jibin.net](https://jibin.net)
+- 📖 [BIN Weekly](https://w.jibin.net)
 
 #### My Codememo
 I'd like to share my coding, skills, and stories in the WeChat Subscription account: `codememo` (Mainly in Chinese)
